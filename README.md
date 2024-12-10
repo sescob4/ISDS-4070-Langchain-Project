@@ -116,12 +116,4 @@ Goodbye!
 
 ---
 
-## Contributing
 
-Feel free to submit issues or pull requests to improve the functionality of this project.
-
----
-
-## License
-
-This project is licensed under the MIT License.
